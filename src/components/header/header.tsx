@@ -8,7 +8,7 @@ export default component$(() => {
     <header>
       <div class="header-inner">
         <section class="logo">
-          <a href="/">Qwik Conference App ✈️</a>
+          <a href="/">Qwik Demo ✈️</a>
         </section>
       </div>
     </header>
